@@ -1,0 +1,25 @@
+{
+  "name": "hipchat_history",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rubenvereecken/hipchat_history",
+  "authors": [
+    "Ruben Vereecken <rubenvereecken@gmail.com>"
+  ],
+  "description": "Web page for displaying and searching through HipChat's history",
+  "main": "app.js",
+  "keywords": [
+    "hipchat",
+    "history",
+    "search"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    ".gitignore",
+    "libs"
+  ],
+  "dependencies": {
+    "jquery": ">=2.0.3"
+  }
+}
